@@ -24,7 +24,7 @@ I love turning ideas into code, especially when it involves GOONS.
      This shows visitors you're actively growing.             -->
 ## What I'm up to
 
-- 🔨 Building → Goons Inc
+- 🔨 Building → Blocks
 - 📖 Learning → Drawing
 - 🤝 Open to → [internships / collaborations / open source]
 - 🎯 Goal this year → [your 2025 goal, e.g. land my first internship]
@@ -55,10 +55,9 @@ I love turning ideas into code, especially when it involves GOONS.
      What problem did it solve? What did you learn?          -->
 ## Featured project
 
-### [Project Name] — [one-line description]
+### Goons Inc 
 
-[2–3 sentences about the project. What problem does it solve?
-Who is it for? What was the hardest part to build?]
+[A special service for people who need, under the counter sevices. No questions asked. Violence requires extra payment as per use.]
 
 🔗 [View repo](https://github.com/yourusername/repo) &nbsp;|&nbsp; 🌐 [Live demo](https://yourproject.com)
 
@@ -69,10 +68,10 @@ Who is it for? What was the hardest part to build?]
 
 ```
 const [yourName] = {
-  pronouns:    "[he her har har]",
-  university:  "[Angeles University Foundation]",
-  loves:       ["coding", "Gooning", "drawing"],
-  currentMood: "[Existential]",
+  pronouns:    "he her har har",
+  university:  "Angeles University Foundation",
+  loves:       "coding", "Gooning", "drawing",
+  currentMood: "Existential",
   askMeAbout:  ["[SBY]", "[WAR]", "[GOON TIPS]"]
 }
 ```
