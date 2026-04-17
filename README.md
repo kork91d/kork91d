@@ -17,7 +17,7 @@
 I'm a **3rd-year Computer Science student** at Angeles University Foundation.
 I love turning ideas into code, especially when it involves GOONS.
 
-https://www.tumblr.com/batlabels/160444877155/goon
+![hippo](https://www.tumblr.com/batlabels/160444877155/goon)
 
 ---
 
