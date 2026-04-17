@@ -17,6 +17,8 @@
 I'm a **3rd-year Computer Science student** at Angeles University Foundation.
 I love turning ideas into code, especially when it involves GOONS.
 
+https://www.tumblr.com/batlabels/160444877155/goon
+
 ---
 
 <!-- CURRENTLY SECTION
@@ -27,7 +29,7 @@ I love turning ideas into code, especially when it involves GOONS.
 - 🔨 Building → Blocks
 - 📖 Learning → Drawing
 - 🤝 Open to → [internships / collaborations / open source]
-- 🎯 Goal this year → [your 2025 goal, e.g. land my first internship]
+- 🎯 Goal this year → Become Big Boss
 
 ---
 
