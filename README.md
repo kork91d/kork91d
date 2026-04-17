@@ -7,12 +7,12 @@
 <!-- HEADER BANNER
      Optional: generate a custom banner at https://capsule-render.vercel.app
      Then replace the URL below with your generated image link. -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=[Your+Name]&fontColor=fff&fontSize=48)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=[Felice]&fontColor=fff&fontSize=48)
 
 <!-- INTRO — Write this like you're talking to a new friend. -->
 ### Hey there! I'm Felice 👋
 
-> I was not on that island
+> I wasnt on that island. They're framing me
 
 I'm a **3rd-year Computer Science student** at Angeles University Foundation.
 I love turning ideas into code, especially when it involves GOONS.
@@ -57,10 +57,8 @@ I love turning ideas into code, especially when it involves GOONS.
 
 ### Goons Inc 
 
-[A special service for people who need, under the counter sevices. No questions asked. Violence requires extra payment as per use.]
-
-🔗 [View repo](https://github.com/yourusername/repo) &nbsp;|&nbsp; 🌐 [Live demo](https://yourproject.com)
-
+ For those who need special, under the counter sevices. Got the dough, then its good to go. No questions asked. Includes: mugging, persuasion, hostile takeovers, evidence gathering, supporter base, union representation.
+ 
 ---
 
 <!-- FUN STUFF — Optional section. Shows personality! -->
