@@ -12,10 +12,10 @@
 <!-- INTRO — Write this like you're talking to a new friend. -->
 ### Hey there! I'm Felice 👋
 
-> [I was not on that island]
+> I was not on that island
 
-I'm a **[3rd]-year Computer Science student** at [Angeles University Foundation].
-I love turning ideas into code, especially when it involves [gooning].
+I'm a **3rd-year Computer Science student** at Angeles University Foundation.
+I love turning ideas into code, especially when it involves GOONS.
 
 ---
 
@@ -24,8 +24,8 @@ I love turning ideas into code, especially when it involves [gooning].
      This shows visitors you're actively growing.             -->
 ## What I'm up to
 
-- 🔨 Building → [Goon Labs]
-- 📖 Learning → [Drawing]
+- 🔨 Building → Goons Inc
+- 📖 Learning → Drawing
 - 🤝 Open to → [internships / collaborations / open source]
 - 🎯 Goal this year → [your 2025 goal, e.g. land my first internship]
 
@@ -71,9 +71,9 @@ Who is it for? What was the hardest part to build?]
 const [yourName] = {
   pronouns:    "[he her har har]",
   university:  "[Angeles University Foundation]",
-  loves:       ["coding", "[Gooning]", "[hobby]"],
-  currentMood: "[bood]",
-  askMeAbout:  ["[topic]", "[topic]", "[topic]"]
+  loves:       ["coding", "Gooning", "drawing"],
+  currentMood: "[Existential]",
+  askMeAbout:  ["[SBY]", "[WAR]", "[GOON TIPS]"]
 }
 ```
 
