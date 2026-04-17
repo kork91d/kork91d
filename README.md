@@ -17,7 +17,8 @@
 I'm a **3rd-year Computer Science student** at Angeles University Foundation.
 I love turning ideas into code, especially when it involves GOONS.
 
-![hippo](https://www.tumblr.com/batlabels/160444877155/goon)
+
+![me](https://github.com/kork91d/kork91d/blob/main/xavier-renegade-angel-xra.gif)
 
 ---
 
